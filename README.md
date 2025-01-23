@@ -1,4 +1,4 @@
-## progresslog
+## loki
 
 An progress log showcasing what I have been learning and my current progress for the same.
 
